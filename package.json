@@ -1,0 +1,22 @@
+{
+  "name": "intelligentmonk",
+  "version": "0.1.0",
+  "description": "Application for judging the submissions online for heuristics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreysbapat/intelligentmonk.git"
+  },
+  "keywords": [
+    "IDE"
+  ],
+  "author": "Shreyas Bapat <hello@shreyasb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreysbapat/intelligentmonk/issues"
+  },
+  "homepage": "https://github.com/shreysbapat/intelligentmonk#readme"
+}
